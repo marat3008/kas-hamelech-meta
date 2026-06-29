@@ -1,11 +1,12 @@
 // ===================================================
-// Publisher — פרסום לפייסבוק ואינסטגרם
-// Meta Graph API v21
+// Publisher — פרסום לפייסבוק, אינסטגרם וטיקטוק
+// Meta Graph API v21 | TikTok Content Posting API v2
 // ===================================================
 
 const axios = require('axios');
 
-const GRAPH = 'https://graph.facebook.com/v21.0';
+const GRAPH   = 'https://graph.facebook.com/v21.0';
+const TIKTOK  = 'https://open.tiktokapis.com/v2';
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // פייסבוק
@@ -121,7 +122,78 @@ async function publishPost(post, { imageUrl } = {}) {
     console.log('ℹ️ [Instagram] דילוג — אין imageUrl (Instagram דורש תמונה)');
   }
 
+  // טיקטוק (וידאו או תמונה)
+  const tikTokText = post.tiktok || post.instagram || post.facebook;
+  if (post.platforms.includes('tiktok') && tikTokText) {
+    const videoUrl = post.videoUrl || process.env.DEFAULT_POST_VIDEO_URL || null;
+    const imgUrl   = imageUrl || process.env.DEFAULT_POST_IMAGE_URL || null;
+    if (videoUrl || imgUrl) {
+      try {
+        const r = await postToTikTok({ caption: tikTokText, videoUrl, imageUrl: imgUrl });
+        results.push(r);
+      } catch (e) {
+        console.error(`❌ [TikTok] שגיאה: ${e.message}`);
+        errors.push({ platform: 'tiktok', error: e.message });
+      }
+    } else {
+      console.log('ℹ️ [TikTok] דילוג — אין videoUrl או imageUrl (TikTok דורש מדיה)');
+    }
+  }
+
   return { results, errors, publishedAt: new Date().toISOString() };
 }
 
-module.exports = { postToFacebook, postToInstagram, scheduleViaBuffer, publishPost };
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// טיקטוק (Content Posting API v2)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+async function postToTikTok({ caption, videoUrl, imageUrl } = {}) {
+  const token = process.env.TIKTOK_ACCESS_TOKEN;
+  if (!token) throw new Error('TIKTOK_ACCESS_TOKEN חסר ב-.env');
+  if (!videoUrl && !imageUrl) throw new Error('TikTok דורש videoUrl או imageUrl');
+
+  const headers = {
+    Authorization: `Bearer ${token}`,
+    'Content-Type': 'application/json; charset=UTF-8',
+  };
+
+  const postInfo = {
+    title: caption.slice(0, 2200),
+    privacy_level: process.env.TIKTOK_PRIVACY || 'PUBLIC_TO_EVERYONE',
+    disable_duet: false,
+    disable_comment: false,
+    disable_stitch: false,
+  };
+
+  let endpoint, body;
+
+  if (videoUrl) {
+    endpoint = `${TIKTOK}/post/publish/video/init/`;
+    body = {
+      post_info: { ...postInfo, video_cover_timestamp_ms: 1000 },
+      source_info: { source: 'PULL_FROM_URL', video_url: videoUrl },
+    };
+  } else {
+    endpoint = `${TIKTOK}/post/publish/content/init/`;
+    body = {
+      post_info: postInfo,
+      source_info: {
+        source: 'PULL_FROM_URL',
+        photo_images: [imageUrl],
+        photo_cover_index: 0,
+      },
+    };
+  }
+
+  const { data } = await axios.post(endpoint, body, { headers });
+
+  if (data.error?.code && data.error.code !== 'ok') {
+    throw new Error(`TikTok שגיאה: ${data.error.message}`);
+  }
+
+  const publishId = data.data?.publish_id;
+  console.log(`✅ [TikTok] פורסם — Publish ID: ${publishId}`);
+  return { platform: 'tiktok', id: publishId, success: true };
+}
+
+module.exports = { postToFacebook, postToInstagram, scheduleViaBuffer, postToTikTok, publishPost };

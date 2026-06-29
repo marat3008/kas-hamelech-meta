@@ -11,7 +11,7 @@ const POSTS = [
   {
     id: 'chair-bouclé-01',
     category: 'כסאות',
-    platforms: ['facebook', 'instagram'],
+    platforms: ['facebook', 'instagram', 'tiktok'],
     facebook: `הפרטים הם שעושים את ההבדל. 🤍
 
 ידית עור עם כפתור זהב.
@@ -34,12 +34,17 @@ const POSTS = [
 📍 ראשון לציון, אליהו איתן 3
 
 #כסהמלך #כסאותיוקרה #עיצובפנים #ריהוטיוקרה #יוקרהבהתאמהאישית #בוקלה #כסאותמרופדים #עיצובהבית #LuxuryChairs #HomeDesign #ראשוןלציון`,
+    tiktok: `הכסא הזה? עשוי בידיים 🤍 בוקלה רכה + פיפינג שחור + ידית עור = PERFECT כסא לסלון
+
+📲 0523084224 | ראשון לציון
+
+#כסאות #עיצובפנים #ריהוטיוקרה #כסהמלך #HomeDesign #LuxuryFurniture #FurnitureTikTok`,
   },
 
   {
     id: 'chair-velvet-02',
     category: 'כסאות',
-    platforms: ['facebook', 'instagram'],
+    platforms: ['facebook', 'instagram', 'tiktok'],
     facebook: `כשאתם בוחרים כסא, אתם בוחרים תחושה. 🪑
 
 וולט קטיפתי בצבע יין עמוק. גב קמור שתומך בדיוק כמו שצריך. רגלי פליז זהוב שמוסיפות נגיעה של קלאסיקה.
@@ -58,6 +63,9 @@ const POSTS = [
 📲 0523084224
 
 #כסהמלך #LuxuryChairs #עיצובפנים #כסאותיוקרה #וולט #HomeLuxury #ראשוןלציון`,
+    tiktok: `וולט קטיפה + פליז זהב = הכסא שכולם שואלים עליו 🍷✨ ראשון לציון | 0523084224
+
+#כסאות #וולט #עיצובפנים #כסהמלך #LuxuryChairs #FurnitureTikTok #HomeDecor`,
   },
 
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -66,7 +74,7 @@ const POSTS = [
   {
     id: 'table-liveedge-01',
     category: 'שולחנות',
-    platforms: ['facebook', 'instagram'],
+    platforms: ['facebook', 'instagram', 'tiktok'],
     facebook: `שולחן Live Edge — הטבע בלב הבית. 🌿
 
 כל קצה לא ישר. כל סיב עץ ייחודי. כל שולחן — יצירה אחת בעולם.
@@ -86,6 +94,9 @@ const POSTS = [
 📲 לפרטים: 0523084224
 
 #כסהמלך #LiveEdge #שולחנות #עיצובהבית #WoodDesign #LuxuryFurniture`,
+    tiktok: `שולחן Live Edge — כל אחד ייחודי בעולם 🌿 אפוקסי שחור + עץ אלון טבעי = WOW 📲 0523084224
+
+#LiveEdge #שולחנות #עיצובהבית #כסהמלך #WoodTikTok #FurnitureTikTok #LuxuryHome`,
   },
 
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -94,7 +105,7 @@ const POSTS = [
   {
     id: 'sofa-modular-01',
     category: 'ספות',
-    platforms: ['facebook', 'instagram'],
+    platforms: ['facebook', 'instagram', 'tiktok'],
     facebook: `הסלון מתחיל בספה. 🤍
 
 ספה מודולרית בגוון ירוק יער — כל מודול מתפרע בנפרד, כל כיסוי ניתן להחלפה.
@@ -114,6 +125,9 @@ const POSTS = [
 📲 רוצה כזאת? 0523084224
 
 #כסהמלך #ספות #עיצובסלון #LuxurySofa #HomeDesign #ריהוטיוקרה`,
+    tiktok: `הספה הזאת בירוק יער 🌿 מודולרית + מיקרופייבר + רגלי אלון = dream sofa 📲 0523084224
+
+#ספות #עיצובסלון #כסהמלך #LuxurySofa #HomeDecor #FurnitureTikTok`,
   },
 
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -122,7 +136,7 @@ const POSTS = [
   {
     id: 'inspiration-01',
     category: 'השראה',
-    platforms: ['facebook', 'instagram'],
+    platforms: ['facebook', 'instagram', 'tiktok'],
     facebook: `מה הופך חדר לבית? 🏡
 
 לא הגודל. לא המחיר.
@@ -141,12 +155,15 @@ const POSTS = [
 📍 ראשון לציון
 
 #כסהמלך #עיצובפנים #InteriorDesign #HomeInspo #LuxuryHome`,
+    tiktok: `מה הופך חדר לבית? הפרטים הקטנים ✨ הכרית. הבד. הצבע. בואו לראות אצלינו 📍 ראשון לציון
+
+#עיצובפנים #כסהמלך #HomeInspo #InteriorTikTok #LuxuryHome`,
   },
 
   {
     id: 'inspiration-02',
     category: 'השראה',
-    platforms: ['facebook', 'instagram'],
+    platforms: ['facebook', 'instagram', 'tiktok'],
     facebook: `יוקרה אמיתית לא צועקת. 🤍
 
 היא נמצאת בתפר המדויק. בצבע שנבחר בקפידה. בחומר שמרגיש מושלם ביד.
@@ -160,6 +177,9 @@ const POSTS = [
     instagram: `יוקרה שקטה. כזאת שמרגישים — לא רואים. 🤍
 
 #כסהמלך #QuietLuxury #עיצובפנים #ריהוטיוקרה #LuxuryHome #HomeDesign`,
+    tiktok: `יוקרה אמיתית לא צועקת 🤍 היא בתפר המדויק. בחומר שמרגיש מושלם. זו כס המלך
+
+#QuietLuxury #ריהוטיוקרה #כסהמלך #LuxuryTikTok #FurnitureTikTok`,
   },
 
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -168,7 +188,7 @@ const POSTS = [
   {
     id: 'cta-consultation-01',
     category: 'CTA',
-    platforms: ['facebook', 'instagram'],
+    platforms: ['facebook', 'instagram', 'tiktok'],
     facebook: `כמה זמן חלמתם על הסלון הזה? ✨
 
 הגיע הזמן לעשות את זה.
@@ -185,12 +205,15 @@ const POSTS = [
 ⏰ זמינות מוגבלת
 
 #כסהמלך #עיצובפנים #ריהוטיוקרה #ראשוןלציון #LuxuryFurniture`,
+    tiktok: `חלמתם על הסלון המושלם? ✨ פגישת עיצוב ללא התחייבות — ראשון לציון 📲 0523084224
+
+#עיצובפנים #כסהמלך #ראשוןלציון #LuxuryFurniture #HomeDesign #FurnitureTikTok`,
   },
 
   {
     id: 'cta-showroom-01',
     category: 'CTA',
-    platforms: ['facebook', 'instagram'],
+    platforms: ['facebook', 'instagram', 'tiktok'],
     facebook: `האולם שלנו פתוח — ואתם מוזמנים. 🪑
 
 קומה ב׳, אולם 228 — מלאים בריהוט יוקרה מהסוג שלא מוצאים בשום מקום אחר.
@@ -208,6 +231,9 @@ const POSTS = [
 📲 0523084224
 
 #כסהמלך #ShowRoom #ריהוטיוקרה #עיצובפנים #ראשוןלציון`,
+    tiktok: `אתם חייבים לבוא לראות 🪑✨ ריהוט יוקרה בהתאמה אישית — אליהו איתן 3, ראשון לציון 📲 0523084224
+
+#כסהמלך #ShowRoom #ריהוטיוקרה #ראשוןלציון #FurnitureTikTok #LuxuryHome`,
   },
 
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -216,7 +242,7 @@ const POSTS = [
   {
     id: 'craft-process-01',
     category: 'עבודת יד',
-    platforms: ['facebook', 'instagram'],
+    platforms: ['facebook', 'instagram', 'tiktok'],
     facebook: `מאחורי כל כסא — שעות של עבודה. 🤍
 
 בחירת הבד ביד. מדידה מדויקת. תפירה שמשקפת רצון לשלמות.
@@ -231,6 +257,9 @@ const POSTS = [
     instagram: `כל תפר — בכוונה. כל בד — בבחירה. 🤍
 
 #כסהמלך #Handmade #עבודתיד #LuxuryCraftsmanship #עיצובפנים #HomeDesign`,
+    tiktok: `מאחורי כל כסא — שעות של עבודת יד 🤍 כל בד נבחר. כל תפר מדויק. כס המלך ראשון לציון
+
+#עבודתיד #Handmade #כסהמלך #LuxuryCraftsmanship #FurnitureTikTok #Satisfying`,
   },
 
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -239,7 +268,7 @@ const POSTS = [
   {
     id: 'friday-post-01',
     category: 'שבת שלום',
-    platforms: ['facebook', 'instagram'],
+    platforms: ['facebook', 'instagram', 'tiktok'],
     facebook: `שישי בבית — הזמן הכי טוב להסתכל מסביב. 🤍
 
 מה הרהיט הבא שתרצו להוסיף לבית?
@@ -256,6 +285,9 @@ const POSTS = [
 שבת שלום מכס המלך עיצובים 🪑
 
 #כסהמלך #שבתשלום #ShabbatShalom #עיצובפנים #HomeVibes`,
+    tiktok: `שישי בבית 🤍✨ שבת שלום מכס המלך! איזה רהיט הייתם רוצים לשדרג בבית? ✍️ כתבו בתגובות
+
+#שבתשלום #ShabbatShalom #כסהמלך #עיצובפנים #HomeVibes #FurnitureTikTok`,
   },
 ];
 
