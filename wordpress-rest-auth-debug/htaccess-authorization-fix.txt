@@ -1,0 +1,31 @@
+# =====================================================================
+#  Authorization-header fix for "rest_not_logged_in"
+# =====================================================================
+#  Many hosts (Apache CGI/FastCGI, LiteSpeed) drop the HTTP
+#  "Authorization" header, so WordPress never receives the Basic-auth
+#  Application Password and answers every REST call with
+#  {"code":"rest_not_logged_in"}. This restores it.
+#
+#  Paste the block INSIDE the "# BEGIN WordPress" ... "# END WordPress"
+#  section of public_html/.htaccess, right after "RewriteEngine On".
+#  Back up .htaccess first.
+# ---------------------------------------------------------------------
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP:Authorization} ^(.*)
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>
+
+# Fallback for servers that honor SetEnvIf instead of the rewrite rule:
+<IfModule mod_setenvif.c>
+    SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+</IfModule>
+
+# ---------------------------------------------------------------------
+#  If the site runs PHP-FPM/FastCGI you may ALSO need, in php.ini or a
+#  .user.ini in public_html:
+#       cgi.fix_pathinfo = 1
+#  and confirm the header arrives with the diagnostic report's
+#  "authorization_header" field.
+# =====================================================================
