@@ -34,7 +34,7 @@
 - **דפדפן (בלי התחברות, אם login שבור):** `https://your-site.com/wp-json/kh-diag/v1/report?key=הסיסמה-שבחרת`
 - **WP-CLI (SSH):** `wp eval 'do_action("kh_diag_cli");'`
 
-הסתכל על שדה `summary_suspects` בראש הדוח — שם המסקנה בשפה פשוטה.
+**דרך wp-admin תראה בראש העמוד "סיכום בעברית" עם שורות ✅/❌ ומה לעשות בכל שורה** — אין צורך לקרוא JSON. (בדרכי ה־API/CLI המידע הזה נמצא בשדה `verdict_he`.)
 
 ---
 

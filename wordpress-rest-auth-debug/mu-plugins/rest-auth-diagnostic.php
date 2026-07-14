@@ -68,6 +68,17 @@ if ( KH_DIAG_APPLY_FIX ) {
 			}
 		}
 	}
+
+	// FIX 4 — Suspect #1: a security/anti-spam plugin hooks rest_authentication_errors
+	// and rejects the request even after the Application Password already authenticated
+	// the user. Runs last (priority 999); ONLY clears the error when a user is in fact
+	// logged in, so it never opens REST to genuinely anonymous callers.
+	add_filter( 'rest_authentication_errors', function ( $errors ) {
+		if ( is_wp_error( $errors ) && is_user_logged_in() ) {
+			return true;
+		}
+		return $errors;
+	}, 999 );
 }
 
 /* -------------------------------------------------------------------------
@@ -196,7 +207,66 @@ function kh_diag_build_report() {
 			. 'Test an actual Application Password request (see README) and re-check.';
 	}
 
+	$report['verdict_he'] = kh_diag_verdict_he( $report );
+
 	return $report;
+}
+
+/**
+ * Turn the raw report into plain-Hebrew, on-screen ✅/❌ lines + next steps,
+ * so a non-developer can act without pasting anything back to anyone.
+ */
+function kh_diag_verdict_he( $report ) {
+	$lines = array();
+	$ap    = $report['application_passwords'];
+	$srv   = $report['server_environment'];
+	$fix   = $report['fix_mode_applied'];
+
+	// Application Passwords availability.
+	if ( true === $ap['wp_is_application_passwords_available'] ) {
+		$lines[] = '✅ Application Passwords זמינים כרגע.';
+	} elseif ( false === $ap['wp_is_application_passwords_available'] ) {
+		$who = wp_list_pluck( $ap['filters_on_wp_is_application_passwords_available'], 'file' );
+		$who = array_values( array_filter( $who ) );
+		if ( $who ) {
+			$lines[] = '❌ Application Passwords כבויים ע"י פילטר בקובץ: ' . implode( ', ', $who )
+				. ' — כבה את התוסף/snippet הזה, או השאר את מצב התיקון פעיל כדי לעקוף.';
+		} else {
+			$lines[] = '❌ Application Passwords כבויים, ללא פילטר מותאם — כנראה בגלל '
+				. ( $srv['is_ssl'] ? 'סביבת עבודה לא־production' : 'is_ssl=false (חיבור לא מזוהה כ־HTTPS)' )
+				. '. מצב התיקון פותר זאת.';
+		}
+	}
+
+	// Authorization header.
+	if ( false !== strpos( (string) $srv['authorization_header'], 'REDIRECT_' ) ) {
+		$lines[] = '❌ כותרת Authorization נמחקת ע"י השרת — זו הסיבה הנפוצה ביותר ל־rest_not_logged_in. '
+			. 'הוסף את הבלוק מ־htaccess-authorization-fix.txt ל־.htaccess.';
+	} elseif ( 'absent' === $srv['authorization_header'] ) {
+		$lines[] = 'ℹ️ בבקשה הנוכחית אין כותרת Authorization (צפוי כשפותחים בדפדפן). '
+			. 'בדוק שוב עם קריאת curl אמיתית (README, שלב 5).';
+	} else {
+		$lines[] = '✅ כותרת Authorization מגיעה לוורדפרס תקין.';
+	}
+
+	// SSL / proxy.
+	if ( ! $srv['is_ssl'] && 'https' === strtolower( (string) $srv['HTTP_X_FORWARDED_PROTO'] ) ) {
+		$lines[] = '❌ is_ssl=false מאחורי פרוקסי HTTPS (Cloudflare?) — זה לבדו מסתיר App Passwords. '
+			. ( $fix ? 'מצב התיקון כבר מטפל בזה.' : 'הפעל מצב תיקון.' );
+	}
+
+	// rest_authentication_errors hooks.
+	if ( ! empty( $report['rest_authentication']['filters_on_rest_authentication_errors'] ) ) {
+		$files = array_values( array_filter( wp_list_pluck( $report['rest_authentication']['filters_on_rest_authentication_errors'], 'file' ) ) );
+		$lines[] = 'ℹ️ פילטר על rest_authentication_errors קיים (' . ( $files ? implode( ', ', $files ) : 'core/לא ידוע' ) . '). '
+			. ( $fix ? 'מצב התיקון מנטרל דחייה שגויה של משתמש מאומת.' : 'אם הבעיה נמשכת, הפעל מצב תיקון.' );
+	}
+
+	$lines[] = $fix
+		? '🛠️ מצב תיקון: פעיל — הכלי מיישם את כל התיקונים אוטומטית. נסה כעת ליצור Application Password.'
+		: '💡 מצב תיקון: כבוי. להפעלה אוטומטית של כל התיקונים הוסף ל־wp-config.php:  define( \'KH_DIAG_APPLY_FIX\', true );';
+
+	return $lines;
 }
 
 function kh_diag_active_plugins() {
@@ -233,10 +303,18 @@ add_action( 'admin_menu', function () {
 		'manage_options',
 		'kh-rest-auth-diagnostic',
 		function () {
+			$report = kh_diag_build_report();
 			echo '<div class="wrap"><h1>REST Auth Diagnostic</h1>';
 			echo '<p>Read-only report. Fix mode is ' . ( KH_DIAG_APPLY_FIX ? '<strong>ON</strong>' : 'off' ) . '.</p>';
-			echo '<pre style="background:#fff;border:1px solid #ccc;padding:12px;overflow:auto;max-height:75vh">';
-			echo esc_html( wp_json_encode( kh_diag_build_report(), JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) );
+			echo '<div dir="rtl" style="background:#f6f7f7;border:1px solid #c3c4c7;border-right:4px solid #2271b1;padding:12px 16px;margin:12px 0;font-size:15px;line-height:1.9">';
+			echo '<strong>סיכום בעברית:</strong><br>';
+			foreach ( (array) $report['verdict_he'] as $line ) {
+				echo esc_html( $line ) . '<br>';
+			}
+			echo '</div>';
+			echo '<h2>Full report (JSON)</h2>';
+			echo '<pre style="background:#fff;border:1px solid #ccc;padding:12px;overflow:auto;max-height:60vh">';
+			echo esc_html( wp_json_encode( $report, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) );
 			echo '</pre></div>';
 		}
 	);
