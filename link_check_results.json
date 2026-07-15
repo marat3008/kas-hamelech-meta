@@ -1,0 +1,302 @@
+[
+  {
+    "n": 1,
+    "name": "WALLS Magazine – מגזין עיצוב פנים",
+    "url": "https://wallsmag.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://wallsmag.co.il/",
+    "note": ""
+  },
+  {
+    "n": 2,
+    "name": "בניין ודיור (bvd.co.il)",
+    "url": "https://www.bvd.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.bvd.co.il/",
+    "note": ""
+  },
+  {
+    "n": 3,
+    "name": "מגזין פורטפוליו (prtfl.co.il)",
+    "url": "https://www.prtfl.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.prtfl.co.il/",
+    "note": ""
+  },
+  {
+    "n": 4,
+    "name": "YUNU DESIGN – בלוג עיצוב פנים",
+    "url": "https://yunu.design/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://yunu.design/",
+    "note": ""
+  },
+  {
+    "n": 5,
+    "name": "הבית של עידה (ida-home.co.il)",
+    "url": "https://www.ida-home.co.il/",
+    "code": 403,
+    "status": "BLOCKED",
+    "redirected": false,
+    "final": "https://www.ida-home.co.il/",
+    "note": "Forbidden"
+  },
+  {
+    "n": 6,
+    "name": "Shimrit Design – בלוג",
+    "url": "https://www.shimrit-design.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.shimrit-design.co.il/",
+    "note": ""
+  },
+  {
+    "n": 7,
+    "name": "Miss Garot – עיצוב והום סטיילינג",
+    "url": "https://www.missgarot.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.missgarot.co.il/",
+    "note": ""
+  },
+  {
+    "n": 8,
+    "name": "ig-interiors – מגזין עיצוב הבית",
+    "url": "https://ig-interiors.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://ig-interiors.co.il/",
+    "note": ""
+  },
+  {
+    "n": 9,
+    "name": "זאפ השוואת מחירים (ZAP)",
+    "url": "https://www.zap.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.zap.co.il/",
+    "note": ""
+  },
+  {
+    "n": 10,
+    "name": "זאפ – ריהוט לבית (קטגוריה)",
+    "url": "https://www.zap.co.il/world.aspx?world=home-furnitures",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.zap.co.il/world.aspx?world=home-furnitures",
+    "note": ""
+  },
+  {
+    "n": 11,
+    "name": "מדרג – דירוג בעלי מקצוע",
+    "url": "https://www.midrag.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.midrag.co.il/",
+    "note": ""
+  },
+  {
+    "n": 12,
+    "name": "יד2 (Yad2) – עסקים/יד שנייה",
+    "url": "https://www.yad2.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": true,
+    "final": "https://validate.perfdrive.com/ccb4768f5e2ea98586d13473d71efc83/?ssa=4362c155-711c-4f5c-9823-a35554131dcd&ssb=82583392834&ssc=https%3A%2F%2Fwww.yad2.co.il%2F&ssi=6ba652ab-bhcz-41c2-85d2-b4c4d4d64329&ssk=support@shieldsquare.com&ssm=05425480619605338103204563190979&ssn=353e5d4ab6680f2093424d3b96034112756109a447c5-e357-4b1e-bc4a73&sso=8cda53b2-8f4735293ebce2c6f3e5b1309e7ed9d624845022f164ad9a&ssp=31101595631784124743178415034806610&ssq=94035631299036244370212990282842209362006&ssr=MTYwLjc5LjEwNi4xOQ==&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/125.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InlhZDIuY28uaWwiLCJfX3V6bWYiOiI3ZjkwMDAwOWE0NDdjNS1lMzU3LTRiMWUtYjNiMi04ZjQ3MzUyOTNlYmMxLTE3ODQxMTI5OTA4OTcwLTAwNDg2OGM3Y2ZhYzc0OTlhODcxMCIsInV6bXgiOiI3ZjkwMDBmOTJiY2IyMy0zNTZhLTRiMmYtYWRkYi1hNDdmMTBlMjYyYzExLTE3ODQxMTI5OTA4OTcwLTk3ODkyZTA4M2FkMGM0NjExMCJ9",
+    "note": ""
+  },
+  {
+    "n": 13,
+    "name": "Toplink – אינדקס עסקים וביקורות",
+    "url": "https://toplink.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://toplink.co.il/",
+    "note": ""
+  },
+  {
+    "n": 14,
+    "name": "פשפשוק – ריהוט ועיצוב הבית",
+    "url": "https://www.facebook.com/groups/Pishpeshuk.Yesh.Inyan/",
+    "code": 400,
+    "status": "CLIENT_ERR",
+    "redirected": false,
+    "final": "https://www.facebook.com/groups/Pishpeshuk.Yesh.Inyan/",
+    "note": "Bad Request"
+  },
+  {
+    "n": 15,
+    "name": "עיצוב הבית – רעיונות, טיפים ויעוץ",
+    "url": "https://www.facebook.com/groups/1318902364786686/",
+    "code": 400,
+    "status": "CLIENT_ERR",
+    "redirected": false,
+    "final": "https://www.facebook.com/groups/1318902364786686/",
+    "note": "Bad Request"
+  },
+  {
+    "n": 16,
+    "name": "משוגעים על עיצוב נורדי",
+    "url": "https://www.facebook.com/groups/590692554472250/",
+    "code": 400,
+    "status": "CLIENT_ERR",
+    "redirected": false,
+    "final": "https://www.facebook.com/groups/590692554472250/",
+    "note": "Bad Request"
+  },
+  {
+    "n": 17,
+    "name": "עיצוב פנים וטיפים לעיצוב הבית",
+    "url": "https://www.facebook.com/groups/1391293584464335",
+    "code": 400,
+    "status": "CLIENT_ERR",
+    "redirected": false,
+    "final": "https://www.facebook.com/groups/1391293584464335",
+    "note": "Bad Request"
+  },
+  {
+    "n": 18,
+    "name": "עיצוב הבית , רעיונות , טיפים ויעוץ (Zehava Avitan)",
+    "url": "https://www.facebook.com/groups/263616147051632/",
+    "code": 400,
+    "status": "CLIENT_ERR",
+    "redirected": false,
+    "final": "https://www.facebook.com/groups/263616147051632/",
+    "note": "Bad Request"
+  },
+  {
+    "n": 19,
+    "name": "דפי זהב (d.co.il)",
+    "url": "https://www.d.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.d.co.il/",
+    "note": ""
+  },
+  {
+    "n": 20,
+    "name": "דפי זהב – חנויות רהיטים לפי עיר",
+    "url": "https://www.d.co.il/h-c45870-e0-p0-l0-city5000/recommended/",
+    "code": 200,
+    "status": "OK",
+    "redirected": true,
+    "final": "https://www.d.co.il/h-c45870-e0-p0-l0-city5000/",
+    "note": ""
+  },
+  {
+    "n": 21,
+    "name": "וואלה עסקים / אינדקס",
+    "url": "https://www.walla.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.walla.co.il/",
+    "note": ""
+  },
+  {
+    "n": 22,
+    "name": "Google Business Profile (עסק שלי)",
+    "url": "https://www.google.com/business/",
+    "code": 200,
+    "status": "OK",
+    "redirected": true,
+    "final": "https://business.google.com/il/business-profile/",
+    "note": ""
+  },
+  {
+    "n": 23,
+    "name": "prosites – פורטל עסקים",
+    "url": "https://prosites.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://prosites.co.il/",
+    "note": ""
+  },
+  {
+    "n": 24,
+    "name": "EasyIndex / אינדקסים ישראליים נוספים",
+    "url": "https://www.easy.co.il/",
+    "code": 403,
+    "status": "BLOCKED",
+    "redirected": false,
+    "final": "https://www.easy.co.il/",
+    "note": "Forbidden"
+  },
+  {
+    "n": 25,
+    "name": "Xnet / ynet – עיצוב ואדריכלות",
+    "url": "https://www.ynet.co.il/architecture",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.ynet.co.il/architecture",
+    "note": ""
+  },
+  {
+    "n": 26,
+    "name": "קינן אדריכלים – בלוג",
+    "url": "https://keinan-arch.com/category/%D7%91%D7%9C%D7%95%D7%92/",
+    "code": 200,
+    "status": "OK",
+    "redirected": true,
+    "final": "https://www.keinan-arch.com/category/%D7%91%D7%9C%D7%95%D7%92/",
+    "note": ""
+  },
+  {
+    "n": 27,
+    "name": "דניאל וקנין – בלוג עיצוב ואדריכלות",
+    "url": "https://www.daniel-vaknin.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.daniel-vaknin.co.il/",
+    "note": ""
+  },
+  {
+    "n": 28,
+    "name": "שרון דוד – בלוג עיצוב",
+    "url": "https://sharondavid.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://sharondavid.co.il/",
+    "note": ""
+  },
+  {
+    "n": 29,
+    "name": "ronit-tal / doritsela / m2arc – משרדי אדריכלות",
+    "url": "https://www.ronit-tal.co.il/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://www.ronit-tal.co.il/",
+    "note": ""
+  },
+  {
+    "n": 30,
+    "name": "2M עיצוב פנים ואדריכלות (m2arc)",
+    "url": "https://m2arc.com/",
+    "code": 200,
+    "status": "OK",
+    "redirected": false,
+    "final": "https://m2arc.com/",
+    "note": ""
+  }
+]
