@@ -20,7 +20,7 @@ Set real targets with Marat and revise them from actual data. The numbers below 
 
 ## Why we can't optimize on `Purchase` yet
 
-CAPI currently sends `Contact` and `Lead` only (`capi/conversions.js`). Until a value-bearing `Purchase`/`Quote` event exists, Meta optimizes toward *conversations*, not *revenue*. Closing this gap (backlog #1 in `operations/lead-flow.md`) is the single biggest measurement upgrade available.
+The flow currently fires `Contact` and `Lead` only. `capi/conversions.js` already defines `trackPurchase()`/`trackSchedule()` — they're just never called. Until a value-bearing `Purchase` event is wired in, Meta optimizes toward *conversations*, not *revenue*. Closing this gap (backlog #1 in `operations/lead-flow.md`) is the single biggest measurement upgrade available.
 
 ## Reading results without fooling yourself
 

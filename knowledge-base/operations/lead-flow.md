@@ -55,7 +55,7 @@ How a stranger becomes a customer, and where the existing `meta-system` code plu
 
 ## Gaps & high-value improvements (backlog)
 
-1. **`Purchase`/`Quote` CAPI event** — today only `Contact` and `Lead` are tracked. Sending a value-bearing conversion when a deal closes lets Meta optimize toward *revenue*, not just conversations. High impact.
+1. **Wire the `Purchase`/`Schedule` CAPI events** — `capi/conversions.js` already defines `trackPurchase()` and `trackSchedule()`, but nothing calls them; the flow only fires `Contact` and `Lead`. Invoke `trackSchedule` on studio-visit booking and `trackPurchase(phone, email, value)` on close, so Meta optimizes toward *revenue*, not just conversations. Highest-impact upgrade.
 2. **Automated Shabbat/Chag pause** — schedule `updateCampaignStatus()` around fetched candle-lighting/tzeit times so no one has to remember. (`strategy/annual-calendar-jewish.md`.)
 3. **Lead qualification & routing** — capture budget/room/Chag-deadline in the first WhatsApp exchange; prioritize hot leads for the team.
 4. **Response-time SLA** — the welcome promises "within an hour." Track and alert if breached; speed is the #1 lever on lead→sale for consultative sales.

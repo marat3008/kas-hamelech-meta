@@ -4,6 +4,31 @@ Append-only. Most-recent entry on top. Use `session-template.md` for the format.
 
 ---
 
+## 2026-07-16 — Troubleshooting knowledge base added
+
+**Focus:** Gather all knowledge on advertising processes, problems, errors and their fixes for Kas Hamelech, so questions can be answered reliably. (Requested by Marat.)
+**Channels/campaigns touched:** none (documentation build)
+**Live actions taken:** none
+
+### What we did
+- Read the remaining `meta-system` modules (`server.js`, `capi/conversions.js`, `.env.example`) to ground fixes in the real code.
+- Built `troubleshooting/`: `README.md` (diagnostic order + escalation), `technical-errors.md` (webhook/signature, tokens/permissions, WhatsApp Cloud API error codes, CAPI, lead-sync, server/DB), `ads-delivery-and-performance.md` (rejections, account health, delivery, learning phase, CPL/CPM, fatigue, targeting, attribution, TikTok), and a Hebrew owner `faq.md`.
+- Added `troubleshooting/` to the main KB index.
+
+### What we observed (facts found in code)
+- `capi/conversions.js` **already defines** `trackPurchase()` and `trackSchedule()`, but they are **never invoked** — only `Contact` and `Lead` fire. Corrected the earlier log/notes which implied the capability was missing.
+- **API version drift:** `whatsapp.js`/`meta-ads.js` on Graph `v23.0`; `leads.js`/`conversions.js` on `v25.0`. Flagged as a fix.
+
+### Decisions / folded back
+- Corrected `operations/lead-flow.md` and `operations/kpis.md` to state the Purchase/Schedule helpers exist but are unwired.
+- Documented the API-version inconsistency in `troubleshooting/technical-errors.md` §4.
+
+### Open questions / next session
+1. Still need real data to make answers fully precise: lead time, prices, warranty, delivery, studio address, current token/account status.
+2. Recommend wiring `trackPurchase`/`trackSchedule` and standardizing Graph API version as the first engineering tickets.
+
+---
+
 ## 2026-07-15 — Knowledge base v1 established
 
 **Focus:** Synthesize the scattered business data (existing `meta-system` code + brand facts) into a structured, modular, self-improving marketing knowledge base.

@@ -32,6 +32,11 @@ knowledge-base/
 ├── operations/
 │   ├── lead-flow.md                 How a click becomes a lead becomes a sale (uses meta-system)
 │   └── kpis.md                      Metrics, targets, and how to read them
+├── troubleshooting/                 Problems, errors & fixes (symptom → cause → fix)
+│   ├── README.md                    Index + diagnostic order + escalation
+│   ├── technical-errors.md          Webhook, tokens, WhatsApp API, CAPI, lead sync, server/DB
+│   ├── ads-delivery-and-performance.md  Rejections, account health, delivery, CPL, fatigue, TikTok
+│   └── faq.md                       Plain-language owner Q&A (Hebrew)
 └── learning-loop/
     ├── README.md                    How the continual-learning loop works
     ├── LEARNING_LOG.md              Append-only log of sessions, results, decisions
