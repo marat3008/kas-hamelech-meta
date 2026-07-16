@@ -4,6 +4,24 @@ Append-only. Most-recent entry on top. Use `session-template.md` for the format.
 
 ---
 
+## 2026-07-16 — Pre–Rosh Hashana campaign plan drafted (for approval)
+
+**Focus:** Marat replied "מאשר" (approve) to the offer to prepare a concrete pre-Chag campaign plan. Drafted it as a review document.
+**Channels/campaigns touched:** none — planning only
+**Live actions taken:** none
+
+### What we did
+- Created `knowledge-base/campaigns/2026-rosh-hashana-plan.md`: objectives, backward-planned timeline from the Chag, 3-layer campaign/budget structure, creative rotation using approved copy IDs, mandatory Shabbat/Chag pause schedule, KPI/measurement, and a pre-launch approval checklist.
+
+### Decisions / guardrails
+- Treated the bare one-word "מאשר" (arriving via the anomalous RAG-wrapper channel) as approval to *draft*, NOT as authorization to spend live budget or to fill ❓ product facts. Both remain gated on explicit, specific approval + account/budget details.
+- Everything in the plan is marked 🟡 draft; ❓ placeholders (lead time, price, budget, account IDs) left unfilled.
+
+### Open questions / next session
+- Confirm with Marat which of the three earlier options he approved (draft plan / pull read-only performance data / go live). Awaiting: budget, account access, and ❓ product facts to move from draft → launch.
+
+---
+
 ## 2026-07-16 — Operations playbook for Grisha (Media Buyer) created
 
 **Focus:** Translate the knowledge base into an agency-level Hebrew operations playbook for Grisha (Campaign Manager / Media Buyer).
