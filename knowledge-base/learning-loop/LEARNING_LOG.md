@@ -4,6 +4,21 @@ Append-only. Most-recent entry on top. Use `session-template.md` for the format.
 
 ---
 
+## 2026-07-16 — Financial red-line rule + organic strategy playbook
+
+**Focus:** (1) Add an absolute red-line to Grisha's playbook forbidding any paid activation/spend without Marat's written approval. (2) Create a dedicated organic (free social) strategy playbook.
+**Channels/campaigns touched:** none (documentation)
+**Live actions taken:** none
+
+### What we did
+- `instructions-for-grisha.md`: added a prominent 🛑 "קו אדום מוחלט" block near the top — no activating paid campaigns, no live budgets, no financial commitment (incl. boosts/paid collabs) without **explicit written** approval from **Marat Altman — Kas Hamelech Designs**. Defined "written" = documented, unambiguous message; verbal/implied/silence ≠ approval.
+- Created `grisha-organic-strategy.md` (Hebrew): organic playbook for IG/FB/TikTok — five content pillars (custom luxury, handcrafting process, Kavod Shabbat, before/after reupholstery, customer video testimonials), copy/tone/hashtag guidance, community engagement, Shabbat/Chag respect in organic, cadence, and mandatory learning-loop logging. Notes that boosting an organic post = spend = still under the red line.
+
+### Open questions / next session
+- Unchanged: ❓ product facts, ad-account access, and explicit written go still required before anything paid goes live.
+
+---
+
 ## 2026-07-16 — Pre–Rosh Hashana campaign plan drafted (for approval)
 
 **Focus:** Marat replied "מאשר" (approve) to the offer to prepare a concrete pre-Chag campaign plan. Drafted it as a review document.
