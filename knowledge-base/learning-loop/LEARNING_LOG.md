@@ -4,6 +4,24 @@ Append-only. Most-recent entry on top. Use `session-template.md` for the format.
 
 ---
 
+## 2026-07-16 — Operations playbook for Grisha (Media Buyer) created
+
+**Focus:** Translate the knowledge base into an agency-level Hebrew operations playbook for Grisha (Campaign Manager / Media Buyer).
+**Channels/campaigns touched:** none (documentation)
+**Live actions taken:** none
+
+### What we did
+- Created `knowledge-base/instructions-for-grisha.md` — full Hebrew playbook covering: (1) brand brief + Shabbat-observant audience constraints, (2) media planning & budget incl. Shabbat/Chag pausing + pre-Chag scaling, (3) creative/copy discipline referencing `creative/`, (4) technical troubleshooting (CAPI, ad rejections/bans, webhook/signature, token expiry, Graph API v23↔v25 mismatch, WA error 131047 / 24h window, lead sync), and (5) the mandatory learning-loop logging ritual.
+- Encoded the crucial authority boundary: **no live budgets and no changes to ❓-marked product details (price, lead time, materials, shipping) without Marat's explicit approval.**
+
+### Knowledge-base changes folded back
+- New file added; cross-links to `brand/`, `strategy/`, `creative/`, `operations/`, `troubleshooting/`, `learning-loop/`.
+
+### Open questions / next session
+- Same blockers persist: confirm ❓ product facts so Grisha can fill `[bracket]` placeholders in copy; get authorization + accounts to move from planning to live.
+
+---
+
 ## 2026-07-16 — Troubleshooting knowledge base added
 
 **Focus:** Gather all knowledge on advertising processes, problems, errors and their fixes for Kas Hamelech, so questions can be answered reliably. (Requested by Marat.)
