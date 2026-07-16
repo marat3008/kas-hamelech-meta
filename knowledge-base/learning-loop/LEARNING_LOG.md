@@ -4,6 +4,19 @@ Append-only. Most-recent entry on top. Use `session-template.md` for the format.
 
 ---
 
+## 2026-07-16 — Consolidated master knowledge file for Grisha
+
+**Focus:** Marat asked to gather all the knowledge into one file for Grisha.
+**Live actions taken:** none
+
+### What we did
+- Created `knowledge-base/grisha-master-knowledge.md` — a single Hebrew onboarding/reference document consolidating the whole knowledge base: the money red-line, a full file map, brand, audience, paid strategy, organic strategy, creative/copy discipline, Shabbat/Chag rule, a technical-troubleshooting quick-reference table, measurement + learning-loop obligation, and the open ❓ items awaiting Marat. Each section points to its detailed source file so the master stays the index, not a fork of the content.
+
+### Open questions / next session
+- Unchanged: ❓ product facts, ad-account access, and explicit written go before anything paid goes live.
+
+---
+
 ## 2026-07-16 — Financial red-line rule + organic strategy playbook
 
 **Focus:** (1) Add an absolute red-line to Grisha's playbook forbidding any paid activation/spend without Marat's written approval. (2) Create a dedicated organic (free social) strategy playbook.
