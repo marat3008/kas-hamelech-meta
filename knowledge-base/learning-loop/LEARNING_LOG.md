@@ -4,6 +4,21 @@ Append-only. Most-recent entry on top. Use `session-template.md` for the format.
 
 ---
 
+## 2026-07-17 — Filled product facts from Grisha's own content library
+
+**Focus:** Marat pointed out that Grisha already holds the real data. Sourced confirmed product facts from the brand's own published content (`publishing/content-library.js`, branch `claude/new-session-ofuklk`) — authoritative business material, not invention.
+**Live actions taken:** none (documentation only)
+
+### What we did — `brand/product-catalog.md`
+- **Fabrics & materials** (from published posts): bouclé (בוקלה), velvet (קטיפה/וולט, incl. deep-wine), microfiber (מיקרופייבר), leather handles (ידית עור); finishes: black piping, gold button, golden-brass legs, natural-oak legs, modular sofas. Fabric/color/height are customer-chosen.
+- **Studio location:** Rishon LeZion (ראשון לציון); a no-obligation design meeting is offered. Exact street address still ❓.
+- **Contact phone:** 052-308-4224 (appears throughout the content library).
+
+### Still ❓ — genuinely absent everywhere (do not invent)
+- **Price** — the content deliberately avoids it ("לא המחיר"). Warranty. Delivery & assembly. Designer-armchair lead time. Exact street address. Binding "תוצרת ישראל" claim.
+
+---
+
 ## 2026-07-17 — Confirmed product lead times (first ❓ facts filled)
 
 **Focus:** Marat began providing the real product facts that were held as ❓ placeholders in `brand/product-catalog.md`.
