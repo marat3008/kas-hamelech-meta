@@ -4,6 +4,27 @@ Append-only. Most-recent entry on top. Use `session-template.md` for the format.
 
 ---
 
+## 2026-07-17 — Confirmed product lead times (first ❓ facts filled)
+
+**Focus:** Marat began providing the real product facts that were held as ❓ placeholders in `brand/product-catalog.md`.
+**Live actions taken:** none (documentation only)
+
+### What we did
+- `brand/product-catalog.md`: filled the **Lead time** placeholder with values confirmed by Marat in-session:
+  - Dining / living-room chairs: **4–6 weeks**
+  - Custom sofas: **8–10 weeks**
+  - Reupholstery: **2–3 weeks**
+- Designer armchairs lead time was **not** provided → deliberately left as ❓ (not invented).
+- Source of authorization: Marat, direct message, 2026-07-17.
+
+### Marketing implication
+- These lead times drive the "order now for Chag" timing math in `strategy/annual-calendar-jewish.md` and `campaigns/2026-rosh-hashana-plan.md`. The A3 "ready for Chag" angle can now be used **only** when the relevant line's lead time still fits before the holiday.
+
+### Open questions / next session
+- Still ❓ awaiting Marat: **price range per line**, **warranty**, **delivery & assembly**, **fabric options/suppliers**, **designer-armchair lead time**, exact **studio address**, and approval of a binding "תוצרת ישראל" claim. Do not fill any of these until confirmed.
+
+---
+
 ## 2026-07-16 — Consolidated master knowledge file for Grisha
 
 **Focus:** Marat asked to gather all the knowledge into one file for Grisha.
