@@ -30,7 +30,7 @@ Marketing that only says "high quality" is weak. Marketing that shows *why* it's
 
 | Field | Status | Why it matters for marketing |
 |---|---|---|
-| Lead time (order → delivery) | ❓ confirm | Sets expectations; "order now for Chag" timing math depends on it |
+| Lead time (order → delivery) | ✅ Confirmed (Marat, 2026-07-17): dining/living chairs **4–6 weeks** · custom sofas **8–10 weeks** · reupholstery **2–3 weeks**. Designer armchairs ❓ not yet confirmed. | Sets expectations; "order now for Chag" timing math depends on it |
 | Price range per line | ❓ confirm | Qualifies leads, filters bargain-hunters, enables "from ₪X" framing |
 | Warranty | ❓ confirm | Strong trust signal for a premium purchase |
 | Delivery & assembly | ❓ confirm | Removes friction/objection |
