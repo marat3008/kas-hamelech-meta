@@ -34,8 +34,9 @@ Marketing that only says "high quality" is weak. Marketing that shows *why* it's
 | Price range per line | ❓ confirm | Qualifies leads, filters bargain-hunters, enables "from ₪X" framing |
 | Warranty | ❓ confirm | Strong trust signal for a premium purchase |
 | Delivery & assembly | ❓ confirm | Removes friction/objection |
-| Studio location / visits | Studio visits are offered (WhatsApp flow) | "Book a studio visit" is a strong mid-funnel CTA |
-| Fabric options / suppliers | ❓ confirm | "Choose your fabric" is a top selling point — show the range |
+| Studio location / visits | ✅ Confirmed (Grisha content library): **Rishon LeZion (ראשון לציון)**; a **no-obligation design meeting** (`פגישת עיצוב ללא התחייבות`) is offered. Exact street address ❓ still to confirm. | "Book a studio visit" is a strong mid-funnel CTA |
+| Contact phone | ✅ Confirmed (Grisha content library): **052-308-4224** | Direct WhatsApp/phone line used across published content |
+| Fabric options / suppliers | ✅ Confirmed (Grisha content library): **bouclé (בוקלה)**, **velvet (קטיפה/וולט, e.g. deep-wine)**, **microfiber (מיקרופייבר)**, **leather handles (ידית עור)**. Finishes seen: black piping (פיפינג שחור), gold button (כפתור זהב), golden-brass legs (רגלי פליז), natural-oak legs (רגלי אלון), modular sofas. Fabric, color & height are customer-chosen. Full supplier list ❓. | "Choose your fabric" is a top selling point — show the range |
 
 ## How products map to the audience's needs
 
