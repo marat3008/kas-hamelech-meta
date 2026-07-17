@@ -1,0 +1,4 @@
+node_modules/
+extracted/
+.env
+*.7z
