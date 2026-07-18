@@ -4,6 +4,33 @@ Append-only. Most-recent entry on top. Use `session-template.md` for the format.
 
 ---
 
+## 2026-07-18 — Meta ad-account connection verified (read-only) + access gap found
+
+**Focus:** Marat approved a read-only pull of the Meta ad accounts to close the long-standing "is the account even connected?" unknown, and named `1021968558911450` as the intended ad account.
+**Live actions taken:** none — read-only account listing only. **No spend, no budget, no activation.**
+
+### What we found (via Meta MCP `ads_get_ad_accounts`)
+The connection **is live**. Three ad accounts are visible to the connected identity:
+
+| Ad account ID | Name / Business | MCP enabled | Status | Queryable | Payment method |
+|---|---|---|---|---|---|
+| `39749404` | מרט רהיטים "כס המלך" · business `440173236424022` | ✅ | **UNSETTLED** | ❌ ("Unknown error") | ✅ present |
+| `451519872388135` | (no name / no business) | ❌ (MCP rollout) | ACTIVE | ✅ | ❌ |
+| `1442331185930125` | "Marat Altman's Business" · business `2180859675497277` | ✅ | ACTIVE | ✅ | ❌ (likely empty) |
+
+- The main **brand** account is `39749404`, but it is **`UNSETTLED`** (outstanding balance) → Meta pauses delivery and blocks querying until the bill is settled.
+- **`1021968558911450` — the ID Marat named — does NOT appear in the accessible list** (no pagination cursor; only 3 accounts returned). So it is not shared with the connected identity and cannot be queried yet.
+
+### Action items for Marat (both are Marat-only — money & access)
+1. **Grant access:** in Business Settings → Ad accounts, assign `1021968558911450` to the "כס המלך" business (`440173236424022`) and give the connected user `ads_management`. Then it should become queryable.
+2. **Settle billing:** clear the outstanding balance on `39749404` so it leaves `UNSETTLED`; check the same on `1021968558911450`.
+
+### Open questions / next session
+- Re-run `ads_get_ad_accounts` after Marat shares `1021968558911450`; if `is_queryable: true`, pull campaign/adset/ad performance (read-only) and start feeding real CPL/ROAS data into this loop.
+- Still ❓ (unchanged): price per line, warranty, delivery & assembly, designer-armchair lead time, exact studio street address, binding "תוצרת ישראל" claim. Red line intact — no spend without explicit written approval.
+
+---
+
 ## 2026-07-17 — Filled product facts from Grisha's own content library
 
 **Focus:** Marat pointed out that Grisha already holds the real data. Sourced confirmed product facts from the brand's own published content (`publishing/content-library.js`, branch `claude/new-session-ofuklk`) — authoritative business material, not invention.
