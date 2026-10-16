@@ -1,0 +1,1892 @@
+[
+  {
+    "name": "אלישבע קובי",
+    "canonicalWebsite": "https://elishevakobi.co.il/",
+    "classification": "HAREDI_CORE",
+    "priority": "HIGH",
+    "verificationStatus": "VERIFIED",
+    "evidence": [
+      "Own site image alt text: \"עיצוב פנים חרדית | אדריכלות חרדית - אלישבע קובי\" (live-fetched and confirmed 2026-10-08)"
+    ],
+    "sourceUrls": [
+      "https://elishevakobi.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-08T13:47:31.199Z",
+    "lastCheckedAt": "2026-10-08T13:47:31.199Z"
+  },
+  {
+    "name": "ריקי גרוזמן",
+    "canonicalWebsite": "https://rikigruzman.co.il/",
+    "classification": "HAREDI_INSTITUTIONAL",
+    "priority": "HIGH",
+    "verificationStatus": "VERIFIED",
+    "evidence": [
+      "Own site title+meta: \"אדריכלות ועיצוב פנים לבתי כנסת | ריקי גרוזמן\" / \"מתמחה באדריכלות ועיצוב פנים לבתי כנסת, ישיבות ומבני ציבור\" (live-fetched and confirmed 2026-10-08)"
+    ],
+    "sourceUrls": [
+      "https://rikigruzman.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-08T13:47:31.199Z",
+    "lastCheckedAt": "2026-10-08T13:47:31.199Z"
+  },
+  {
+    "name": "אינה פלמזנסקי",
+    "canonicalWebsite": "https://www.indesigns.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"מעצבת פנים כללית המתמחה בבתים פרטיים, דירות יוקרה ובתי עסק, ללא שום אינדיקציה מגזרית באותות האתר.\" (2026-10-09T14:13:43.037Z)."
+    ],
+    "sourceUrls": [
+      "https://www.indesigns.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:13:43.037Z"
+  },
+  {
+    "name": "ליטל קורטציג",
+    "canonicalWebsite": "https://www.leetal-k.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"מעצבת פנים כללית, האתר מציג שירותי עיצוב פנים ללא פנייה או זיקה למגזר החרדי או הדתי.\" (2026-10-09T14:14:04.501Z)."
+    ],
+    "sourceUrls": [
+      "https://www.leetal-k.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:14:04.501Z"
+  },
+  {
+    "name": "אורי מוזס־רון",
+    "canonicalWebsite": "https://www.oridesignstudio.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"מעצבת פנים כללית מתל אביב, ללא שום אינדיקציה למגזר החרדי או הדתי באותות האתר.\" (2026-10-09T14:14:11.386Z)."
+    ],
+    "sourceUrls": [
+      "https://www.oridesignstudio.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:14:11.386Z"
+  },
+  {
+    "name": "אירינה וולוצקי",
+    "canonicalWebsite": "https://irinadesign.co.il/he",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"מעצבת פנים כללית, דוברת רוסית, ללא שום אינדיקציה למגזר החרדי או הדתי באותות האתר.\" (2026-10-09T14:14:18.650Z)."
+    ],
+    "sourceUrls": [
+      "https://irinadesign.co.il/he"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:14:18.650Z"
+  },
+  {
+    "name": "אלה מורגן",
+    "canonicalWebsite": "https://www.elamorgan.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"מעצבת פנים כללית בחיפה ובצפון לבתים פרטיים, משרדים וחנויות, ללא שום אינדיקציה למגזר הדתי או החרדי.\" (2026-10-09T14:14:25.228Z)."
+    ],
+    "sourceUrls": [
+      "https://www.elamorgan.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:14:25.228Z"
+  },
+  {
+    "name": "הדר דור",
+    "canonicalWebsite": "https://www.dordesign.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"מעצבת פנים לבתים פרטיים, פנטהאוזים ודירות באזור השרון והמרכז, ללא אינדיקציה מגזרית.\" (2026-10-09T14:14:31.980Z)."
+    ],
+    "sourceUrls": [
+      "https://www.dordesign.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:14:31.980Z"
+  },
+  {
+    "name": "רונה פיסטול",
+    "canonicalWebsite": "https://www.ronapistol.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.ronapistol.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "מיטל אדירי",
+    "canonicalWebsite": "https://www.meital-adiri.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.meital-adiri.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "עדית לוי",
+    "canonicalWebsite": "https://home-style.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי עיצוב פנים כלליים לדירות, בתים ומשרדים ללא כל אזכור או פנייה למגזר החרדי או הדתי.\" (2026-10-09T14:15:27.589Z)."
+    ],
+    "sourceUrls": [
+      "https://home-style.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:15:27.589Z"
+  },
+  {
+    "name": "שירן פורת",
+    "canonicalWebsite": "https://shiranp-design.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://shiranp-design.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "שני איצקוביץ",
+    "canonicalWebsite": "https://www.shaniitzkovich.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.shaniitzkovich.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "מורן מור",
+    "canonicalWebsite": "https://studiomor.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג פורטפוליו כללי ללא כל אזכור או סממנים המעידים על התמחות במגזר החרדי או במוסדות דת.\" (2026-10-09T15:18:14.167Z)."
+    ],
+    "sourceUrls": [
+      "https://studiomor.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:18:14.167Z"
+  },
+  {
+    "name": "דנה מורן",
+    "canonicalWebsite": "https://www.danna.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר עוסק בעיצוב פנים לבתים פרטיים ודירות ללא כל התייחסות או פנייה למגזר החרדי או הדתי.\" (2026-10-09T15:18:24.858Z)."
+    ],
+    "sourceUrls": [
+      "https://www.danna.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:18:24.858Z"
+  },
+  {
+    "name": "רוית רזניק",
+    "canonicalWebsite": "https://www.details.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"סטודיו לעיצוב פנים והום סטיילינג כללי, ללא אינדיקציה למגזר דתי או חרדי באותות האתר.\" (2026-10-09T14:17:35.622Z)."
+    ],
+    "sourceUrls": [
+      "https://www.details.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:17:35.622Z"
+  },
+  {
+    "name": "מעיין מנור",
+    "canonicalWebsite": "https://www.details.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.details.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "אילנה דובקין",
+    "canonicalWebsite": "https://www.ilanad.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי עיצוב פנים כלליים לבתים ומשרדים ללא כל התייחסות או פנייה למגזר החרדי.\" (2026-10-09T14:18:07.266Z)."
+    ],
+    "sourceUrls": [
+      "https://www.ilanad.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:18:07.266Z"
+  },
+  {
+    "name": "שיר מרגולין",
+    "canonicalWebsite": "https://www.shirmargolin.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מתמקד בעיצוב דירות בתל אביב בסגנון נקי ומינימליסטי, ללא כל אזכור או זיקה למגזר החרדי.\" (2026-10-09T14:18:12.426Z)."
+    ],
+    "sourceUrls": [
+      "https://www.shirmargolin.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:18:12.426Z"
+  },
+  {
+    "name": "הודיה מילר",
+    "canonicalWebsite": "https://www.studiomillerarch.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי אדריכלות ועיצוב פנים כלליים לדירות ובתים פרטיים ללא פנייה מפורשת למגזר החרדי או הדתי.\" (2026-10-09T14:18:16.432Z)."
+    ],
+    "sourceUrls": [
+      "https://www.studiomillerarch.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:18:16.432Z"
+  },
+  {
+    "name": "רבקה מטלון",
+    "canonicalWebsite": "https://architectit.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://architectit.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "שלי רייתן",
+    "canonicalWebsite": "https://www.reytanshelly.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.reytanshelly.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "דנה שבדרון",
+    "canonicalWebsite": "https://www.styling4home.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.styling4home.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "שרון מעין",
+    "canonicalWebsite": "https://sharonmaayan.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג סטודיו לאדריכלות ועיצוב פנים המתמחה בבתים פרטיים ודירות יוקרה, ללא אינדיקציה לפנייה למגזר החרדי או הדתי.\" (2026-10-09T15:20:38.744Z)."
+    ],
+    "sourceUrls": [
+      "https://sharonmaayan.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:20:38.744Z"
+  },
+  {
+    "name": "רויטל מרציאנו",
+    "canonicalWebsite": "https://www.revitalmarciano.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי עיצוב פנים לבתים פרטיים ומשרדים ללא כל אזכור או פנייה למגזר החרדי או הדתי.\" (2026-10-09T14:20:35.350Z)."
+    ],
+    "sourceUrls": [
+      "https://www.revitalmarciano.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:20:35.350Z"
+  },
+  {
+    "name": "אורטל סלאמה",
+    "canonicalWebsite": "https://www.ortals.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי עיצוב פנים כלליים לדירות ללא כל התייחסות או פנייה למגזר החרדי או למוסדות דת.\" (2026-10-09T15:20:45.765Z)."
+    ],
+    "sourceUrls": [
+      "https://www.ortals.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:20:45.765Z"
+  },
+  {
+    "name": "תמר שטמלר",
+    "canonicalWebsite": "https://tamar-stamler.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"סטודיו לעיצוב פנים בתל אביב המתמקד בדירות ובתים פרטיים, ללא כל אינדיקציה לפנייה למגזר החרדי.\" (2026-10-09T14:21:03.826Z)."
+    ],
+    "sourceUrls": [
+      "https://tamar-stamler.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:21:03.826Z"
+  },
+  {
+    "name": "זוהר בן לביא",
+    "canonicalWebsite": "https://benlavie.com/en",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"סטודיו לעיצוב פנים ברמת גן המתמחה בבתים ודירות לקהל דובר אנגלית, ללא מאפיינים מגזריים.\" (2026-10-09T14:21:11.235Z)."
+    ],
+    "sourceUrls": [
+      "https://benlavie.com/en"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:21:11.235Z"
+  },
+  {
+    "name": "איילת לוי עדני",
+    "canonicalWebsite": "https://www.ayelet.design/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.ayelet.design/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "נרקיס רובין ברזני",
+    "canonicalWebsite": "https://narkisrubinbarazani.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://narkisrubinbarazani.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "חן שבתאי",
+    "canonicalWebsite": "https://www.studiohens.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.studiohens.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "הילה עשת",
+    "canonicalWebsite": "https://www.s-e.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.s-e.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "אלה כהן דובנוב",
+    "canonicalWebsite": "https://www.s-e.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.s-e.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "שרון אפל",
+    "canonicalWebsite": "https://www.sharon-appel.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי אדריכלות ועיצוב פנים כלליים ללא כל אזכור או פנייה למגזר החרדי או הדתי.\" (2026-10-09T14:23:12.595Z)."
+    ],
+    "sourceUrls": [
+      "https://www.sharon-appel.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:23:12.595Z"
+  },
+  {
+    "name": "ליליאן בן שוהם",
+    "canonicalWebsite": "https://www.benshoam.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מתמקד בתכנון בתים, דירות יוקרה ומשרדים ברמת השרון ללא כל אזכור או סממנים למגזר החרדי או הדתי.\" (2026-10-09T14:23:34.696Z)."
+    ],
+    "sourceUrls": [
+      "https://www.benshoam.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:23:34.696Z"
+  },
+  {
+    "name": "מגי דוידוב",
+    "canonicalWebsite": "https://www.dav-art.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"מעצבת פנים ואדריכלית ללקוחות פרטיים ומסחריים, ללא אינדיקציה למגזר ספציפי או התמחות דתית באותות האתר.\" (2026-10-09T15:23:05.731Z)."
+    ],
+    "sourceUrls": [
+      "https://www.dav-art.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:23:05.731Z"
+  },
+  {
+    "name": "דורית סלע",
+    "canonicalWebsite": "https://www.doritsela.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מתמחה באדריכלות ועיצוב פנים לבתי יוקרה, ללא כל אזכור או התמחות במגזר החרדי או במוסדות דת.\" (2026-10-09T15:23:16.852Z)."
+    ],
+    "sourceUrls": [
+      "https://www.doritsela.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:23:16.852Z"
+  },
+  {
+    "name": "מרים בסקון",
+    "canonicalWebsite": "https://www.smb-arch.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.smb-arch.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "שיר דאווק",
+    "canonicalWebsite": "https://www.shirdowek.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.shirdowek.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "סנדי ברודנר",
+    "canonicalWebsite": "https://www.sandybinteriors.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"מעצבת פנים בירושלים הפונה לתושבי חוץ ודוברי אנגלית, ללא אינדיקציה מפורשת למגזר החרדי.\" (2026-10-09T14:25:38.448Z)."
+    ],
+    "sourceUrls": [
+      "https://www.sandybinteriors.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:25:38.448Z"
+  },
+  {
+    "name": "דינה מלאך",
+    "canonicalWebsite": "https://dinamalach.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"סטודיו לאדריכלות ועיצוב פנים בירושלים למגורי יוקרה, ללא סימנים מובהקים באותות לפנייה למגזר החרדי.\" (2026-10-09T14:25:46.999Z)."
+    ],
+    "sourceUrls": [
+      "https://dinamalach.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:25:46.999Z"
+  },
+  {
+    "name": "רובא טנוס",
+    "canonicalWebsite": "https://rubatannous.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://rubatannous.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "רחל עטייה",
+    "canonicalWebsite": "https://www.raquel-attia.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.raquel-attia.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "עדינה ניבין",
+    "canonicalWebsite": "https://www.nivininteriors.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.nivininteriors.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "עירית אביר",
+    "canonicalWebsite": "https://archiparchi.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג אדריכלית ללא כל אינדיקציה או תוכן המכוון למגזר החרדי או למוסדות דת.\" (2026-10-09T15:26:07.130Z)."
+    ],
+    "sourceUrls": [
+      "https://archiparchi.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:26:07.130Z"
+  },
+  {
+    "name": "תמר רנד",
+    "canonicalWebsite": "https://www.tamarrand.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.tamarrand.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "מרינה שאטסקי",
+    "canonicalWebsite": "https://www.shatskyeylon.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"סטודיו לעיצוב פנים בגבעתיים המתמחה בדירות מגורים ובתים פרטיים ללא שיוך מגזרי.\" (2026-10-09T14:28:36.481Z)."
+    ],
+    "sourceUrls": [
+      "https://www.shatskyeylon.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:28:36.481Z"
+  },
+  {
+    "name": "טל אילון",
+    "canonicalWebsite": "https://www.shatskyeylon.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.shatskyeylon.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "עינב מאי",
+    "canonicalWebsite": "https://www.einavmay.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.einavmay.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "ליאת אלון",
+    "canonicalWebsite": "https://www.liat-alon.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.liat-alon.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "איילת שטיין",
+    "canonicalWebsite": "https://in-design.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://in-design.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "זינה מנדיוק",
+    "canonicalWebsite": "https://www.zinamdesign.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג סטודיו לעיצוב פנים כללי ללא כל אזכור או התמחות במגזר החרדי או במוסדות דת.\" (2026-10-09T14:30:37.733Z)."
+    ],
+    "sourceUrls": [
+      "https://www.zinamdesign.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:30:37.733Z"
+  },
+  {
+    "name": "יערה אסיף",
+    "canonicalWebsite": "https://www.kushina.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי אדריכלות ועיצוב פנים כלליים בירושלים ללא סממנים המעידים על התמחות במגזר החרדי או הדתי.\" (2026-10-09T14:30:43.939Z)."
+    ],
+    "sourceUrls": [
+      "https://www.kushina.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:30:43.939Z"
+  },
+  {
+    "name": "ליאת צור",
+    "canonicalWebsite": "https://www.liattzurdesign.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"סטודיו לעיצוב פנים לבתים פרטיים, חללים מסחריים ומלונות בוטיק, ללא מאפיינים מגזריים ספציפיים.\" (2026-10-09T14:31:06.368Z)."
+    ],
+    "sourceUrls": [
+      "https://www.liattzurdesign.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:31:06.368Z"
+  },
+  {
+    "name": "רונית פלטי",
+    "canonicalWebsite": "https://ronitpalti.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי עיצוב פנים כלליים לבתים ומשרדים בירושלים ללא אזכור או פנייה מפורשת למגזר החרדי.\" (2026-10-09T15:28:46.627Z)."
+    ],
+    "sourceUrls": [
+      "https://ronitpalti.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:28:46.627Z"
+  },
+  {
+    "name": "טניה אלפרין",
+    "canonicalWebsite": "https://www.tania-alperin-design.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.tania-alperin-design.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "נעמה זלטניק",
+    "canonicalWebsite": "https://naama-studio.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://naama-studio.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "קרן גרינבוים",
+    "canonicalWebsite": "https://www.studiomissgreen.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.studiomissgreen.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "סיגל אביטל גילון",
+    "canonicalWebsite": "https://studio-sag.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי עיצוב פנים כלליים למגורים ועסקים ללא כל התייחסות למגזר החרדי או למוסדות דת.\" (2026-10-09T14:33:32.551Z)."
+    ],
+    "sourceUrls": [
+      "https://studio-sag.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:33:32.551Z"
+  },
+  {
+    "name": "נעמה כהן",
+    "canonicalWebsite": "https://www.naamacohendesign.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.naamacohendesign.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "נורית מור־יוסף",
+    "canonicalWebsite": "https://www.nugi.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג סטודיו לעיצוב פנים והום סטיילינג כללי לדירות, בתים ומשרדים, ללא כל אזכור או פנייה למגזר החרדי או הדתי.\" (2026-10-09T15:31:14.905Z)."
+    ],
+    "sourceUrls": [
+      "https://www.nugi.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:31:14.905Z"
+  },
+  {
+    "name": "ליטל כהן וסובר",
+    "canonicalWebsite": "https://www.litalcohen-design.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"סטודיו לתכנון ועיצוב פנים בנתניה, ללא כל אינדיקציה למגזר דתי או חרדי באותות האתר.\" (2026-10-09T15:31:38.878Z)."
+    ],
+    "sourceUrls": [
+      "https://www.litalcohen-design.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:31:38.878Z"
+  },
+  {
+    "name": "שרון סידי",
+    "canonicalWebsite": "https://www.sharonsidi.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר עוסק בעיצוב פנים והום סטיילינג כללי ללא כל אזכור או סממנים המעידים על התמחות במגזר החרדי.\" (2026-10-09T14:35:37.006Z)."
+    ],
+    "sourceUrls": [
+      "https://www.sharonsidi.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:35:37.006Z"
+  },
+  {
+    "name": "יפעת ירושלמי",
+    "canonicalWebsite": "https://www.yifatdesign.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי עיצוב פנים כלליים לדירות יוקרה, משרדים וחללים עסקיים, ללא כל התייחסות למגזר החרדי או הדתי.\" (2026-10-09T14:35:46.589Z)."
+    ],
+    "sourceUrls": [
+      "https://www.yifatdesign.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:35:46.589Z"
+  },
+  {
+    "name": "מזית פלאצ'י",
+    "canonicalWebsite": "https://www.mazitdesign.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.mazitdesign.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "זהבית גולד",
+    "canonicalWebsite": "https://www.zehavitgold.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.zehavitgold.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "רלי אמזלג",
+    "canonicalWebsite": "https://rely-designs.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://rely-designs.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "גילה וינטר",
+    "canonicalWebsite": "https://www.vintergiladesign.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.vintergiladesign.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "שיר שטייגמן",
+    "canonicalWebsite": "https://www.shtaigman.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"סטודיו לעיצוב פנים בתל אביב, ללא אינדיקציה למגזר החרדי או הדתי בטקסטים.\" (2026-10-09T15:33:46.955Z)."
+    ],
+    "sourceUrls": [
+      "https://www.shtaigman.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:33:46.955Z"
+  },
+  {
+    "name": "מור גורדון",
+    "canonicalWebsite": "https://www.shtaigman.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"סטודיו לתכנון ועיצוב פנים בתל אביב, ללא אינדיקציה למגזר דתי או חרדי.\" (2026-10-09T14:38:07.486Z)."
+    ],
+    "sourceUrls": [
+      "https://www.shtaigman.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:38:07.486Z"
+  },
+  {
+    "name": "מאיה קדם",
+    "canonicalWebsite": "https://mayakedem.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי עיצוב פנים כלליים לבתים ועסקים ללא כל התייחסות או פנייה למגזר החרדי או הדתי.\" (2026-10-09T14:38:28.412Z)."
+    ],
+    "sourceUrls": [
+      "https://mayakedem.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:38:28.412Z"
+  },
+  {
+    "name": "נועה גרייזמן",
+    "canonicalWebsite": "https://noagryzman.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://noagryzman.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "שרון רז",
+    "canonicalWebsite": "https://sharon-design.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://sharon-design.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "הילה אלטר",
+    "canonicalWebsite": "https://www.hilahstyling.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.hilahstyling.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "דנה יקל חדש",
+    "canonicalWebsite": "https://www.dyc.design/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.dyc.design/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "שלומית דאובה",
+    "canonicalWebsite": "https://www.shlomitd.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג שירותי עיצוב פנים כלליים לבתים, משרדים ודירות קבלן ללא כל אזכור או פנייה למגזר החרדי.\" (2026-10-09T14:40:36.136Z)."
+    ],
+    "sourceUrls": [
+      "https://www.shlomitd.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:40:36.136Z"
+  },
+  {
+    "name": "מיכל בן נר",
+    "canonicalWebsite": "https://www.michalbenner.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.michalbenner.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "רונית אלמליח",
+    "canonicalWebsite": "https://www.ronital-design.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"עיצוב פנים והום סטיילינג כללי, ללא אינדיקציה למגזר דתי או חרדי באותות האתר.\" (2026-10-09T15:36:38.001Z)."
+    ],
+    "sourceUrls": [
+      "https://www.ronital-design.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:36:38.001Z"
+  },
+  {
+    "name": "מיטל יעקב",
+    "canonicalWebsite": "https://meitalyaakov.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"מעצבת פנים והנדסאית אדריכלות כללית, ללא אינדיקציה למגזר החרדי או הדתי באותות האתר.\" (2026-10-09T15:36:44.228Z)."
+    ],
+    "sourceUrls": [
+      "https://meitalyaakov.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T15:36:44.228Z"
+  },
+  {
+    "name": "ענבל ברקוביץ",
+    "canonicalWebsite": "https://www.design-inbal.design-inbal.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.design-inbal.design-inbal.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "מירי קמר",
+    "canonicalWebsite": "https://mkdesign.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://mkdesign.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "גלית שבת",
+    "canonicalWebsite": "https://www.layout-net.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.layout-net.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "דיקלה בן־צור ליפינסקי",
+    "canonicalWebsite": "https://www.layout-net.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.layout-net.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "זוהרה קליין",
+    "canonicalWebsite": "https://www.zohara-klein.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.zohara-klein.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "גלית דיין רביב",
+    "canonicalWebsite": "https://www.design2be.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.design2be.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "גלית בן זקן",
+    "canonicalWebsite": "https://galitbenzaken.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://galitbenzaken.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "מורן כהן",
+    "canonicalWebsite": "https://www.morandesignstudio.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.morandesignstudio.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "מורן פארן",
+    "canonicalWebsite": "https://www.alloy.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.alloy.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "ג'סיקה תל",
+    "canonicalWebsite": "https://www.alloy.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.alloy.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "מורן רוזנברג",
+    "canonicalWebsite": "https://moranrozenberg.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://moranrozenberg.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "דנה ינאי",
+    "canonicalWebsite": "https://www.dana-yanay.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.dana-yanay.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "כרמית גת",
+    "canonicalWebsite": "https://www.carmitgat.com/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.carmitgat.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "מעין רהב",
+    "canonicalWebsite": "https://www.maayanrahav.com/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר עוסק בעיצוב בתים פרטיים, דירות קבלן וחללים מסחריים באזור השרון, ללא כל התייחסות למגזר החרדי או הדתי.\" (2026-10-09T14:48:37.208Z)."
+    ],
+    "sourceUrls": [
+      "https://www.maayanrahav.com/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:48:37.208Z"
+  },
+  {
+    "name": "לילי שלו",
+    "canonicalWebsite": "https://www.lililea.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.lililea.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "ענת וייסברג",
+    "canonicalWebsite": "https://anatweissberg.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://anatweissberg.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "מאיה האזרחי",
+    "canonicalWebsite": "https://mayahdesign.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://mayahdesign.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "דיאנה גיל",
+    "canonicalWebsite": "https://dianagil.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://dianagil.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "גניה שוורץ",
+    "canonicalWebsite": "https://www.gs-design.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.gs-design.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "אושרת כרמלי",
+    "canonicalWebsite": "https://www.dama-studio.co.il/",
+    "classification": "UNCLASSIFIED",
+    "priority": "MEDIUM",
+    "verificationStatus": "UNVERIFIED",
+    "evidence": [],
+    "sourceUrls": [
+      "https://www.dama-studio.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T08:04:51.442Z"
+  },
+  {
+    "name": "סמדר רוטשטיין",
+    "canonicalWebsite": "https://www.smadarrotshtain.co.il/",
+    "classification": "GENERAL",
+    "priority": "MEDIUM",
+    "verificationStatus": "AI_CLASSIFIED",
+    "evidence": [
+      "AI classification via OmniRoute (auto/best-free) from live title/meta snapshot: \"האתר מציג סטודיו לעיצוב פנים כללי ללא כל אינדיקציה או פנייה למגזר החרדי או למוסדות דת.\" (2026-10-09T14:51:46.802Z)."
+    ],
+    "sourceUrls": [
+      "https://www.smadarrotshtain.co.il/"
+    ],
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "tiktok": null
+    },
+    "addedAt": "2026-10-09T08:04:51.442Z",
+    "lastCheckedAt": "2026-10-09T14:51:46.802Z"
+  }
+]

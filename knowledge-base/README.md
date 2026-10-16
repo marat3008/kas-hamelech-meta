@@ -37,19 +37,37 @@ knowledge-base/
 │   ├── technical-errors.md          Webhook, tokens, WhatsApp API, CAPI, lead sync, server/DB
 │   ├── ads-delivery-and-performance.md  Rejections, account health, delivery, CPL, fatigue, TikTok
 │   └── faq.md                       Plain-language owner Q&A (Hebrew)
-└── learning-loop/
-    ├── README.md                    How the continual-learning loop works
-    ├── LEARNING_LOG.md              Append-only log of sessions, results, decisions
-    ├── experiments.md               Registry of A/B tests and their outcomes
-    └── session-template.md          Copy-paste template for logging a session
+├── learning-loop/
+│   ├── README.md                    How the continual-learning loop works
+│   ├── LEARNING_LOG.md              Append-only log of sessions, results, decisions
+│   ├── experiments.md               Registry of A/B tests and their outcomes
+│   └── session-template.md          Copy-paste template for logging a session
+├── campaigns/                       Dated campaign plans and content calendars
+├── intelligence/
+│   └── grisha-intelligence-feed.md  Hand-off channel from the automated seo/ scanner (see below) — append-only, findings only
+├── grisha-memory.md                 Grisha's own short working-memory summary (read first each session)
+├── grisha-master-knowledge.md       Consolidated master knowledge file
+└── grisha-organic-strategy.md       Organic social strategy playbook
 ```
+
+## A second, automated agent feeds this knowledge base
+
+Outside this directory, `seo/` (repo root) is a separate, free-first competitor/designer
+website-change scanner — not a Grisha persona, just code. It runs unattended via a
+Windows Scheduled Task ("Grisha Designer Intel Scan", hourly) and writes verified,
+changed-or-new findings only to `intelligence/grisha-intelligence-feed.md` (see
+`seo/lib/grishaHandoff.js` — a report with zero findings is never written, so every
+line in that feed is a real event). **Read its latest entries each session**, the same
+way you read `learning-loop/LEARNING_LOG.md`. It never spends money, never publishes,
+and never touches product facts — same guardrails as everywhere else in this KB.
 
 ## How to use it (every session)
 
+0. **Read** `grisha-memory.md` and the latest `intelligence/grisha-intelligence-feed.md` entries — your current working state and anything the automated scanner found since last session.
 1. **Read** `brand/audience-shabbat-observant.md` first — it constrains everything else.
 2. **Read** the relevant `strategy/` and `creative/` files for the task at hand.
 3. **Act** — draft copy, plan a campaign, analyze results. (Live actions require authorization.)
-4. **Learn** — append a dated entry to `learning-loop/LEARNING_LOG.md` using `session-template.md`, register any test in `experiments.md`, and if a durable lesson emerged, edit the source file (e.g. tighten a hook in `ad-copy-library.md`).
+4. **Learn** — append a dated entry to `learning-loop/LEARNING_LOG.md` using `session-template.md`, register any test in `experiments.md`, and if a durable lesson emerged, edit the source file (e.g. tighten a hook in `ad-copy-library.md`). Update `grisha-memory.md` if your working state changed.
 
 ## Non-negotiable guardrails
 

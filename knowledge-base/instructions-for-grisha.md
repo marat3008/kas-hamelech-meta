@@ -50,6 +50,11 @@
 | מדדים ויעדים (KPIs) | `knowledge-base/operations/kpis.md` |
 | פתרון תקלות | `knowledge-base/troubleshooting/` |
 | לולאת למידה ותיעוד | `knowledge-base/learning-loop/` |
+| תוכניות קמפיין ולוחות שנה | `knowledge-base/campaigns/` |
+| **מודיעין מתחרים/מעצבים (אוטומטי)** | `knowledge-base/intelligence/grisha-intelligence-feed.md` |
+| זיכרון עבודה עדכני של גרישה | `knowledge-base/grisha-memory.md` |
+
+> 🤖 **מערכת אוטומטית נפרדת:** `seo/` (בשורש המאגר) מריצה סקאנר תחרותי/מעצבים חינמי (ללא תלות בספק תשלום) על **משימה מתוזמנת ב-Windows** בשם "Grisha Designer Intel Scan" (כל שעה) שכותבת ממצאים מאומתים לקובץ המודיעין שלמעלה. **קרא את הרשומות האחרונות בקובץ המודיעין בתחילת כל סשן**, בדיוק כמו ב-`LEARNING_LOG.md` — זה הערוץ שבו הסוכן האוטומטי "מעביר לך" מידע. דוחות ללא ממצאים אינם נכתבים (ראה `seo/lib/grishaHandoff.js`) — כל רשומה שם היא אירוע אמיתי שכדאי לבדוק.
 
 ---
 

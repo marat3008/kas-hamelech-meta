@@ -1,0 +1,16 @@
+{
+  "source": "tiktok_studio_analytics",
+  "sourceType": "observed",
+  "observedAt": "2026-07-19",
+  "evidenceRef": "knowledge-base/learning-loop/LEARNING_LOG.md#2026-07-19; knowledge-base/grisha-memory.md",
+  "note": "Read live via Claude-in-Chrome from TikTok Studio Overview (last 7 days). This is TikTok's own platform-reported search-traffic share, not Google/Ahrefs keyword search volume or ranking data — do not treat it as SERP evidence.",
+  "metrics": {
+    "searchTrafficSharePct": 26.9,
+    "forYouSharePct": 71.6
+  },
+  "seedQueries": [
+    { "query": "כסאות לפינת אוכל", "searchSharePct": 19.0 },
+    { "query": "כיסאות לפינת אוכל", "searchSharePct": 14.3 },
+    { "query": "כסאות אוכל מפוארים", "searchSharePct": 14.3 }
+  ]
+}

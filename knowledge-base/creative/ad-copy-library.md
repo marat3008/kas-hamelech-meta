@@ -97,6 +97,10 @@ Ready drafts to adapt. **Review with Marat before publishing.** Fill any `[brack
 **Hashtag set (Hebrew)**
 `#כסהמלך #ריפוד #עבודתיד #כיסאות #כורסאות #ספות #שולחןשבת #עיצובהבית #רהיטים #ריפודמחדש #בהתאמהאישית`
 
+**Search-winning tags (added 2026-07-18, from TikTok Organic data — top search queries driving discovery):**
+`#כסאותלפינתאוכל #כסאותאוכל #כסאותאוכלמפוארים`
+> Data: on the account's TikTok, top search queries were "כסאות לפינת אוכל" (23.5%), "כסאות אוכל מפוארים" (17.6%), "כיסאות לפינת אוכל" (11.8%). Lead dining-chair posts with these exact phrases in the caption + these tags. Reconfirm as more data comes in.
+
 ---
 
 ## Usage rules
