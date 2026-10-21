@@ -31,17 +31,18 @@ function listProviders() {
 // Verified 2026-10-08 against the connected Ahrefs API v3 MCP: the server
 // responds (auth works, OpenAPI docs fetched live), but every endpoint
 // tried — including the ones Ahrefs documents as free/unit-less — returns
-// {"error":"Insufficient plan"}. Recorded as unsupported with evidence so a
-// future session doesn't silently re-probe or assume it's unconfigured;
-// re-verify after the account's Ahrefs plan changes.
+// {"error":"Insufficient plan"}. Re-verified 2026-10-16 (domain_rating only,
+// same result) — still blocked, no plan change yet. Recorded as unsupported
+// with evidence so a future session doesn't silently re-probe or assume
+// it's unconfigured; re-verify after the account's Ahrefs plan changes.
 registerProvider({
   name: 'ahrefs',
   capabilities: {
     domain_rating: {
       status: 'unsupported',
       reason: 'insufficient_plan',
-      evidenceRef: '2026-10-08 site-explorer-domain-rating(target=kingchairs.co.il) -> {"error":"Insufficient plan"}',
-      lastVerified: '2026-10-08',
+      evidenceRef: '2026-10-16 site-explorer-domain-rating(target=kingchairs.co.il) -> {"error":"Insufficient plan"} (also 2026-10-08, same result)',
+      lastVerified: '2026-10-16',
     },
     organic_keywords: {
       status: 'unsupported',

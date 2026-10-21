@@ -44,7 +44,9 @@ knowledge-base/
 │   └── session-template.md          Copy-paste template for logging a session
 ├── campaigns/                       Dated campaign plans and content calendars
 ├── intelligence/
-│   └── grisha-intelligence-feed.md  Hand-off channel from the automated seo/ scanner (see below) — append-only, findings only
+│   ├── grisha-intelligence-feed.md  Hand-off channel from the automated seo/ scanner (see below) — append-only, findings only
+│   ├── grisha-strategy-digest.md    Daily coverage/provider rollup from the scanner
+│   └── grisha-content-sync-protocol.md  How a verified scanner signal becomes an organic-content action (the filter + loop + logging rule)
 ├── grisha-memory.md                 Grisha's own short working-memory summary (read first each session)
 ├── grisha-master-knowledge.md       Consolidated master knowledge file
 └── grisha-organic-strategy.md       Organic social strategy playbook

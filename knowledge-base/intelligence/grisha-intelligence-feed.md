@@ -978,3 +978,78 @@ _Full evidence: data/grisha-handoff/a9e3dcc3e13278e2.json_
 No new or changed competitor/designer signals this batch.
 
 _Full evidence: data/grisha-handoff/c3aefbd0d0b7d5f6.json_
+
+## 2026-10-16T16:13:04.146Z — Intelligence report 388eb0b0743aea65
+
+- **איילת שטיין** (https://in-design.co.il/) — changed: jsonLd; confidence: observed; observed 2026-10-16T16:13:03.245Z.
+- **זינה מנדיוק** (https://www.zinamdesign.co.il/) — changed: title, description, canonical, h1, h2, openGraph; confidence: observed; observed 2026-10-16T16:13:03.792Z.
+
+_Full evidence: data/grisha-handoff/388eb0b0743aea65.json_
+
+## 2026-10-17T17:13:03.574Z — Intelligence report c83dbb3df55705d7
+
+- **זינה מנדיוק** (https://www.zinamdesign.co.il/) — changed: title, description, canonical, h1, h2, openGraph; confidence: observed; observed 2026-10-17T17:13:03.569Z.
+
+_Full evidence: data/grisha-handoff/c83dbb3df55705d7.json_
+
+## 2026-10-17T19:13:04.394Z — Intelligence report 7ec0011a01e865d7
+
+- **נעמה זלטניק** (https://naama-studio.com/) — changed: h2; confidence: observed; observed 2026-10-17T19:13:04.385Z.
+
+_Full evidence: data/grisha-handoff/7ec0011a01e865d7.json_
+
+## 2026-10-18T08:13:06.379Z — Intelligence report 4eb97222ce372ce5
+
+- **הילה עשת, אלה כהן דובנוב** (https://www.s-e.co.il/) — changed: title, description, canonical, h1, h2, jsonLd, openGraph; confidence: observed; observed 2026-10-18T08:13:04.487Z.
+- **איילת לוי עדני** (https://www.ayelet.design/) — changed: title, description, canonical, h2, jsonLd, openGraph; confidence: observed; observed 2026-10-18T08:13:06.371Z.
+
+_Full evidence: data/grisha-handoff/4eb97222ce372ce5.json_
+
+## 2026-10-18T18:13:04.460Z — Intelligence report 1a78b481751336a9
+
+- **זינה מנדיוק** (https://www.zinamdesign.co.il/) — changed: title, description, canonical, h1, h2, openGraph; confidence: observed; observed 2026-10-18T18:13:04.142Z.
+
+_Full evidence: data/grisha-handoff/1a78b481751336a9.json_
+
+## 2026-10-19T03:13:05.441Z — Intelligence report 7f006fc16bf69a67
+
+- **דנה מורן** (https://www.danna.co.il/) — changed: h1, h2, jsonLd, openGraph; confidence: observed; observed 2026-10-19T03:13:03.390Z.
+
+_Full evidence: data/grisha-handoff/7f006fc16bf69a67.json_
+
+## 2026-10-19T09:13:04.114Z — Intelligence report 346bf5a6656058c3
+
+- **איילת לוי עדני** (https://www.ayelet.design/) — changed: title, description, canonical, h2, jsonLd, openGraph; confidence: observed; observed 2026-10-19T09:13:03.780Z.
+- **הילה עשת, אלה כהן דובנוב** (https://www.s-e.co.il/) — changed: title, description, canonical, h1, h2, jsonLd, openGraph; confidence: observed; observed 2026-10-19T09:13:04.107Z.
+
+_Full evidence: data/grisha-handoff/346bf5a6656058c3.json_
+
+## 2026-10-19T19:13:02.921Z — Intelligence report e4e85fe4993d0e90
+
+- **זינה מנדיוק** (https://www.zinamdesign.co.il/) — changed: title, description, canonical, h1, h2, openGraph; confidence: observed; observed 2026-10-19T19:13:02.917Z.
+
+_Full evidence: data/grisha-handoff/e4e85fe4993d0e90.json_
+
+## 2026-10-19T23:13:01.994Z — Intelligence report 38208e8ffb03dd50
+
+- **אלישבע קובי** (https://elishevakobi.co.il/) — changed: jsonLd, openGraph; confidence: observed; observed 2026-10-19T23:13:01.862Z.
+
+_Full evidence: data/grisha-handoff/38208e8ffb03dd50.json_
+
+## 2026-10-20T04:13:04.207Z — Intelligence report 28b0e30e0b02fbd9
+
+- **דנה מורן** (https://www.danna.co.il/) — changed: h2; confidence: observed; observed 2026-10-20T04:13:02.019Z.
+
+_Full evidence: data/grisha-handoff/28b0e30e0b02fbd9.json_
+
+## 2026-10-20T20:13:01.991Z — Intelligence report 1bcd8c8275b11690
+
+- **זינה מנדיוק** (https://www.zinamdesign.co.il/) — changed: title, description, canonical, h1, h2, openGraph; confidence: observed; observed 2026-10-20T20:13:01.497Z.
+
+_Full evidence: data/grisha-handoff/1bcd8c8275b11690.json_
+
+## 2026-10-21T05:13:04.036Z — Intelligence report 8dc1b09bd97b61f3
+
+- **דנה מורן** (https://www.danna.co.il/) — changed: h2, jsonLd, openGraph; confidence: observed; observed 2026-10-21T05:13:04.028Z.
+
+_Full evidence: data/grisha-handoff/8dc1b09bd97b61f3.json_
