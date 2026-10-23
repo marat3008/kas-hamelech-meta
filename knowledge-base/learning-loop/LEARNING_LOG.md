@@ -4,6 +4,22 @@ Append-only. Most-recent entry on top. Use `session-template.md` for the format.
 
 ---
 
+## 2026-10-23 — Extracted meta-system code into the repo
+
+**Focus:** Marat approved ("תחלץ כן") extracting the `meta-system` Node app from the archive into version control.
+**Live actions taken:** none (source-control only)
+
+### What we did
+- Extracted `meta-system-v2-2.zip` into `meta-system/` in the repo (17 files): `server.js`, `channels/` (whatsapp, messenger, instagram), `leads/leads.js`, `ads/meta-ads.js`, `capi/conversions.js`, `db/database.js`, `dashboard/`, `utils/notifier.js`, `Dockerfile`, `docker-compose.yml`, `package.json`, and the Hebrew setup/Render guides.
+- Verified the bundled `.env.example` contains only placeholders (no real tokens/secrets).
+- Left the stub root `server.js`/`package.json` untouched; rebased cleanly onto the current branch tip (which did not yet contain `meta-system/`).
+
+### Notes / next
+- The `meta-system/` code now lives under git; the `.zip`/`.7z` archives are redundant (`.7z` already gitignored; can remove on request).
+- Backlog now actionable in-tree: wire `trackPurchase`/`trackSchedule` (`capi/conversions.js`), and standardize the Graph API version (v23 vs v25) across modules.
+
+---
+
 ## 2026-10-19 — Fixed duplicate /index.php/ URLs end-to-end (permalinks → verified redirects → GSC reindex)
 
 **Focus:** Closed the technical SEO issue flagged in `grisha-competitor-intel` (Google indexing both `/index.php/chairs|about|shop|tables/` and the clean versions in parallel).
